@@ -1,6 +1,10 @@
 ﻿using UnityEngine;
 using System.Collections.Generic;
-
+/// <summary>
+/// 
+/// Written by FS
+/// 
+/// </summary>
 public class Snake : MonoBehaviour
 {
 	List<List<Cell>> lCells = new List<List<Cell>>();

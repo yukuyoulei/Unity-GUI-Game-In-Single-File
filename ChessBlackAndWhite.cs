@@ -1,6 +1,11 @@
 ﻿using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
+/// <summary>
+/// 
+/// Written by FS
+/// 
+/// </summary>
 
 public class ChessBlackAndWhite : MonoBehaviour
 {
