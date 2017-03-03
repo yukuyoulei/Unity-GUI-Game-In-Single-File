@@ -2,7 +2,11 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+/// <summary>
+/// 
+/// Written by FS
+/// 
+/// </summary>
 public class UBlackJack : MonoBehaviour
 {
 	private List<int> lAllCards;
