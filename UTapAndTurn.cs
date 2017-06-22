@@ -1,7 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using UnityEngine;
-
+/// <summary>
+/// 
+/// Written by FS
+/// 
+/// </summary>
 public class UTapAndTurn : MonoBehaviour
 {
 	private static UTapAndTurn sintance;
