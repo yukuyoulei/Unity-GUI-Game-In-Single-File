@@ -114,7 +114,7 @@ public class UTapAndTurn : MonoBehaviour
 		}
 		set
 		{
-			if (BestLevel > 0 && value > BestLevel)
+			if (BestLevel > 0 && value < BestLevel)
 			{
 				return;
 			}
